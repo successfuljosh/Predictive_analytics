@@ -1,5 +1,5 @@
 # **Predictive Analysis Using LSTM**
-The long short term memory Technique Long-term memory (LSTM) is a deep learning artificial recurrent neural network (RNN) architecture
+The long short term memory (LSTM) is a deep learning artificial recurrent neural network (RNN) architecture
 Unlike traditional feed-forward neural networks, LSTM has feedback connections. It can handle single data points (such as pictures) as well as full data sequences (such as speech or video).
 
 # LSTM Model
